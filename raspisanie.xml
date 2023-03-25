@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<data>
+    <day name="понедельник">
+        <lesson lname="алгебра"/>
+        <lesson lname="алгебра"/>
+        <lesson lname="физика"/>
+        <lesson lname="физика"/>
+        <lesson lname="литература"/>
+    </day>
+    <day name="вторник">
+        <lesson lname="история"/>
+        <lesson lname="английский"/>
+        <lesson lname="английский"/>
+        <lesson lname="алгебра"/>
+        <lesson lname="геометрия"/>
+        <lesson lname="обществознание"/>
+    </day>
+    <day name="среда">
+        <lesson lname="русский"/>
+        <lesson lname="русский"/>
+        <lesson lname="алгебра"/>
+        <lesson lname="литература"/>
+        <lesson lname="английский"/>
+        <lesson lname="география"/>
+        <lesson lname="география"/>
+    </day>
+    <day name="четверг">
+        <lesson lname="история"/>
+        <lesson lname="биология"/>
+        <lesson lname="изо"/>
+        <lesson lname="музыка"/>
+        <lesson lname="технология"/>
+        <lesson lname="технология"/>
+    </day>
+    <day name="пятница">
+        <lesson lname="информатика"/>
+        <lesson lname="русский"/>
+        <lesson lname="русский"/>
+        <lesson lname="физкультура"/>
+        <lesson lname="физкультура"/>
+        <lesson lname="алгебра"/>
+    </day>
+</data>
